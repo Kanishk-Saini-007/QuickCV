@@ -1,7 +1,7 @@
 # QuickCV
 ### Your next chapter, on one good page.
 
-[Open QuickCV](https://kanishksaini-007.github.io/QuickCV/) · [Source code](https://github.com/KanishkSaini-007/QuickCV)
+[Open QuickCV](https://kanishk-saini-007.github.io/QuickCV/) · [Source code](https://github.com/Kanishk-Saini-007/QuickCV)
 A private, no-signup resume studio with live preview and browser-native PDF export. An editorial forest-and-mint workspace surrounds a clean white resume, with a responsive editor that works on phones too.
 
 ![QuickCV desktop, fictional resume](desktop.svg)
